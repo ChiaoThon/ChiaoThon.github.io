@@ -14,7 +14,7 @@ Education
 ======
 * B.S. (2010-2014, academic rank: 1/333) in ECE, Chongqing University of Posts and Telecommunications, Chongqing, China.
 * M.S. (2014-2017, academic rank: 1/441) in ECE, Chongqing University of Posts and Telecommunications, Chongqing, China.
-* Ph.D (2017-present, GPA: 3.96/4) in ECE, Old Dominion University, Norfolk, USA.
+* Ph.D (2017-present, GPA: 3.96/4.0) in ECE, Old Dominion University, Norfolk, VA, USA.
 
 Publication
 ======
