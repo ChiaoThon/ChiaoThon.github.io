@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'm the third-year PhD student at [Center for Cybersecurity Education and Reseach in Old Dominion University](https://www.odu.edu/ccser), which is directed by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/). My current research is about the privacy-preserved machine learning.
+Hi, my name is Qiao Zhang, I'm the PhD candidate at [Center for Cybersecurity Education and Reseach in Old Dominion University](https://www.odu.edu/ccser), which is directed by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/). My current research is about the privacy-preserved machine learning.
 
 Education
 ======
