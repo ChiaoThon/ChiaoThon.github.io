@@ -18,7 +18,7 @@ Education
 
 Publication
 ======
-* **Zhang, Q.**, Xin, C., & Wu, H.. (2021, February). GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks. In NDSS.
+* **Zhang, Q.**, Xin, C., & Wu, H. (2021, February). GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks. In NDSS.
 
 * **Zhang, Q.**, Xin, C., & Wu, H.. SecureTrain: An Approximation-Free and Computationally Efficient Framework for Privacy-Preserved Neural Network Training. In IEEE Transactions on Network Science and Engineering.
 
