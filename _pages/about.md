@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'm the PhD candidate at [Center for Cybersecurity Education and Reseach in Old Dominion University](https://www.odu.edu/ccser), which is directed by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/). My current research is about the privacy-preserved machine learning.
+Hi, my name is Qiao Zhang, I'm a PhD candidate at [Center for Cybersecurity Education and Reseach in Old Dominion University](https://www.odu.edu/ccser), which is directed by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/). My current research is about the privacy-preserved machine learning.
 
 Education
 ======
@@ -18,6 +18,8 @@ Education
 
 Publication
 ======
+* **Zhang, Q.**, Xin, C., & Wu, H.. (2021, February). GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks. In NDSS.
+
 * **Zhang, Q.**, Xin, C., & Wu, H.. SecureTrain: An Approximation-Free and Computationally Efficient Framework for Privacy-Preserved Neural Network Training. In IEEE Transactions on Network Science and Engineering.
 
-* **Zhang, Q.**, Wang, C., Wu, H., Xin, C., & Phuong, T. V. (2018, July). [GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning](https://www.ijcai.org/proceedings/2018/0547.pdf). In IJCAI (pp. 3933-3939).
+* **Zhang, Q.**, Wang, C., Wu, H., Xin, C., & Phuong, T. V. (2018, July). [GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning](https://www.ijcai.org/proceedings/2018/0547.pdf). In IJCAI.
