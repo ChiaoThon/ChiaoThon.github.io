@@ -20,7 +20,7 @@ Publication
 ======
 * **Zhang, Q.**, Xin, C., & Wu, H. (2021). Privacy Preserving Deep Learning based on Multi-Party Secure Computation: A Survey. In IEEE Internet of Things Journal.
 
-* **Zhang, Q.**, Xin, C., & Wu, H. (2021, February). GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks. In NDSS.
+* **Zhang, Q.**, Xin, C., & Wu, H. (2021, February). [GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-3_24351_paper.pdf). In NDSS. [Twitter](https://twitter.com/NDSSSymposium/status/1364609099879440385)
 
 * **Zhang, Q.**, Xin, C., & Wu, H. (2020). SecureTrain: An Approximation-Free and Computationally Efficient Framework for Privacy-Preserved Neural Network Training. In IEEE Transactions on Network Science and Engineering.
 
