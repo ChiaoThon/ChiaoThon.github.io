@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'm a Ph.D. candidate (advised by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/)) at [Department of Electrical and Computer Engineering in Old Dominion University](https://www.odu.edu/ece). My current research is about the privacy-preserved machine learning.
+Hi, my name is Qiao Zhang, I'm an assistant professor at College of Computer Science, Chongqing University, China. Before that, I obtained my Ph.D. degree (advised by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/)) at [Department of Electrical and Computer Engineering in Old Dominion University](https://www.odu.edu/ece). My current research is about the privacy-preserved machine learning.
 
 Education
 ======
 * B.S. (2010-2014, academic rank: 1/333) in ECE, Chongqing University of Posts and Telecommunications, Chongqing, China.
 * M.S. (2014-2017, academic rank: 1/441) in ECE, Chongqing University of Posts and Telecommunications, Chongqing, China.
-* Ph.D. (2017-present, GPA: 3.96/4.0) in ECE, Old Dominion University, Norfolk, VA, USA.
+* Ph.D. (2017-2021, GPA: 3.96/4.0) in ECE, Old Dominion University, Norfolk, VA, USA.
 
 Publication
 ======
