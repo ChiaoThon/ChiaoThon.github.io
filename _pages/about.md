@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'm an assistant professor at College of Computer Science, Chongqing University, China. Before that, I obtained my Ph.D. degree (advised by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/)) at [Department of Electrical and Computer Engineering in Old Dominion University](https://www.odu.edu/ece). My current research is about the privacy-preserved machine learning.
+Hi, my name is Qiao Zhang, I'm an assistant professor at [College of Computer Science, Chongqing University, China](http://www.cs.cqu.edu.cn/). Before that, I obtained my Ph.D. degree (advised by [Prof. Hongyi Wu](https://www.lions.odu.edu/~h1wu/)) at [Department of Electrical and Computer Engineering in Old Dominion University](https://www.odu.edu/ece). My current research is about the privacy-preserved machine learning.
 
 Education
 ======
