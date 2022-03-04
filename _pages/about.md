@@ -18,7 +18,7 @@ Education
 
 Publication
 ======
-* Cai, Y., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2022). Hunter: HE-friendly structured pruning for efficient privacy-preserving deep learning. In AsiaCCS.
+* Cai, Y., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2022, May). Hunter: HE-friendly structured pruning for efficient privacy-preserving deep learning. In AsiaCCS.
 
 * **Zhang, Q.**, Xin, C., & Wu, H. (2021). Privacy Preserving Deep Learning based on Multi-Party Secure Computation: A Survey. In IEEE Internet of Things Journal.
 
