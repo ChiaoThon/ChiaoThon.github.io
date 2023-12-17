@@ -18,6 +18,8 @@ Education
 
 Publication
 ======
+* **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). United We Stand: Accelerating Privacy-Preserving Neural Inference by Conjunctive Optimization with Interleaved Nexus. In AAAI.
+
 * **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). From Individual Computation to Allied Optimization: Remodeling Privacy-Preserving Neural Inference with Function Input Tuning. In S&P.
 
 * Cai, Y., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2024). MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning. In AsiaCCS.
