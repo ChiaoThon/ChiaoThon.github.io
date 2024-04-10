@@ -36,3 +36,11 @@ Publication
 * **Zhang, Q.**, Xin, C., & Wu, H. (2020). SecureTrain: An Approximation-Free and Computationally Efficient Framework for Privacy-Preserved Neural Network Training. In IEEE Transactions on Network Science and Engineering.
 
 * **Zhang, Q.**, Wang, C., Wu, H., Xin, C., & Phuong, T. V. (2018). [GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning](https://www.ijcai.org/proceedings/2018/0547.pdf). In IJCAI.
+
+
+Service
+======
+* TPC Member：IEEE ICDCS'24.
+* Conference Reviewer：IEEE INFOCOM, AAAI, ACL, IEEE ICDCS, IWQoS.
+* Journal Reviewer：IEEE TMC, IEEE TC, IEEE TDSC, IEEE TIFS, ACM CSUR, IEEE TSP, IEEE TVT, IEEE Internet of Things Journal.
+
