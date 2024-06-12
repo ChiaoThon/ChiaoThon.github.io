@@ -19,6 +19,8 @@ Education
 
 Publication
 ======
+* Xu, X., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2024). SPOT: Structure Patching and Overlap Tweaking for Effective Pipelining in Privacy-Preserving MLaaS with Tiny Clients. In ICDCS.
+
 * **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). United We Stand: Accelerating Privacy-Preserving Neural Inference by Conjunctive Optimization with Interleaved Nexus. In AAAI.
 
 * **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). From Individual Computation to Allied Optimization: Remodeling Privacy-Preserving Neural Inference with Function Input Tuning. In S&P.
