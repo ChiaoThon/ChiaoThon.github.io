@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'm currently working as an assistant professor/postdoctoral fellow at College of Computer Science, Chongqing University, China. My research is about the privacy-preserving machine learning.
+Hi, my name is Qiao Zhang, I'll be an associate professor at School of Computer Science and Technology, Shandong University, China, and am currently working as an assistant professor/postdoctoral fellow at College of Computer Science, Chongqing University, China. My research is about the privacy-preserving machine learning.
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 Publication
 ======
-* Feng, Y., **Zhang, Q.**, Cai, Y., Wu, H., & Xin, C. (2024). TILE: Input Structure Optimization for Neural Networks to Accelerate Secure Inference. In ACSAC. [Abstract]()
+* Feng, Y., **Zhang, Q.**, Cai, Y., Wu, H., & Xin, C. (2024). TILE: Input Structure Optimization for Neural Networks to Accelerate Secure Inference. In ACSAC. [Abstract](https://www.openconf.org/acsac2024/modules/request.php?module=oc_program&action=summary.php&id=10)
 
 * Xu, X., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2024). SPOT: Structure Patching and Overlap Tweaking for Effective Pipelining in Privacy-Preserving MLaaS with Tiny Clients. In ICDCS. [Abstract](https://ieeexplore.ieee.org/document/10631031)
 
