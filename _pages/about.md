@@ -41,7 +41,8 @@ Publication
 
 * **Zhang, Q.**, Wang, C., Wu, H., Xin, C., & Phuong, T. V. (2018). GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning. In IJCAI. [Abstract](https://www.ijcai.org/proceedings/2018/0547.pdf)
 
-
+<!---
 Service
 ======
 * TPC Member：IEEE ICDCS'24.
+--->
