@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'll be an associate professor at School of Computer Science and Technology, Shandong University, China, and am currently working as an assistant professor/postdoctoral fellow at College of Computer Science, Chongqing University, China. My research is about the privacy-preserving machine learning.
+Hi, my name is Qiao Zhang, I'll be an associate professor at School of Computer Science and Technology, Shandong University, China. I was a faculty member from 2022 to 2024 at Chongqing University, China. My research is about the privacy-preserving machine learning.
 
 Education
 ======
