@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Qiao Zhang, I'll be an associate professor at School of Computer Science and Technology, Shandong University, China. I was a faculty member from 2022 to 2024 at Chongqing University, China. My research is about the privacy-preserving machine learning.
+Hi, my name is Qiao Zhang, I'm an associate professor at School of Computer Science and Technology, Shandong University, China. I was a faculty member from 2022 to 2024 at Chongqing University, China. My research is about the privacy-preserving machine learning.
 
 Education
 ======
@@ -16,6 +16,11 @@ Education
 * M.S. (2014-2017, ranking in major: 1/441) in ECE, Chongqing University of Posts and Telecommunications, Chongqing, China.
 * B.S. (2010-2014, ranking in major: 1/333) in ECE, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
+<!---
+Service
+======
+* TPC Member：IEEE ICDCS'24.
+--->
 
 Publication
 ======
@@ -41,8 +46,3 @@ Publication
 
 * **Zhang, Q.**, Wang, C., Wu, H., Xin, C., & Phuong, T. V. (2018). GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning. In IJCAI. [Abstract](https://www.ijcai.org/proceedings/2018/0547.pdf)
 
-<!---
-Service
-======
-* TPC Member：IEEE ICDCS'24.
---->
