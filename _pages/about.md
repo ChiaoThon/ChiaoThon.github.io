@@ -24,13 +24,13 @@ Service
 
 Publication
 ======
-* Feng, Y., **Zhang, Q.**, Cai, Y., Wu, H., & Xin, C. (2024). TILE: Input Structure Optimization for Neural Networks to Accelerate Secure Inference. In ACSAC. [Abstract](https://www.openconf.org/acsac2024/modules/request.php?module=oc_program&action=summary.php&id=10)
+* Feng, Y., **Zhang, Q.**, Cai, Y., Wu, H., & Xin, C. (2024). TILE: Input Structure Optimization for Neural Networks to Accelerate Secure Inference. In ACSAC. [Abstract](https://ieeexplore.ieee.org/document/10918159)
 
 * Xu, X., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2024). SPOT: Structure Patching and Overlap Tweaking for Effective Pipelining in Privacy-Preserving MLaaS with Tiny Clients. In ICDCS. [Abstract](https://ieeexplore.ieee.org/document/10631031)
 
 * **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). United We Stand: Accelerating Privacy-Preserving Neural Inference by Conjunctive Optimization with Interleaved Nexus. In AAAI. [Abstract](https://ojs.aaai.org/index.php/AAAI/article/view/29620)
 
-* **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). From Individual Computation to Allied Optimization: Remodeling Privacy-Preserving Neural Inference with Function Input Tuning. In S&P. [Abstract](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a101/1Ub238IknIs)
+* **Zhang, Q.**, Xiang, T., Xin, C., & Wu, H. (2024). From Individual Computation to Allied Optimization: Remodeling Privacy-Preserving Neural Inference with Function Input Tuning. In S&P. [Abstract](https://ieeexplore.ieee.org/document/10646638)
 
 * Cai, Y., **Zhang, Q.**, Ning, R., Xin, C., & Wu, H. (2024). MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning. In AsiaCCS. [Abstract](https://dl.acm.org/doi/10.1145/3634737.3637680)
 
